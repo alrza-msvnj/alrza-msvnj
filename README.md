@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 `My programming languages are:`
 
-<img src="/icons/cs.svg" style="width:60px; height:60px" />
+<img src="/icons/csharp.svg" style="width:35px; height:35px" /> <img src="/icons/csharp.svg" style="width:40px; height:40px" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alrza-msvnj&no-bg=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
