@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+`My programming languages are:`
+
+<img src="pxArt (1).svg" style="width:60px; height:60px" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alrza-msvnj&no-bg=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
