@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 `My languages are:`
 
-<img src="/icons/csharp.svg" style="width:50px; height:50px" /> <img src="/icons/python.svg" style="width:50px; height:50px" /> <img src="/icons/html.svg" style="width:50px; height:50px" /> <img src="/icons/css.svg" style="width:50px; height:50px" /> <img src="/icons/javascript.svg" style="width:50px; height:50px" />
+<img src="/icons/csharp.svg" style="width:50px; height:50px" /> <img src="/icons/python.svg" style="width:50px; height:50px" /> <img src="/icons/html.svg" style="width:50px; height:50px" /> <img src="/icons/css.svg" style="width:50px; height:50px" /> <img src="/icons/javascript.svg" style="width:50px; height:50px" /> <img src="/icons/typescript.svg" style="width:50px; height:50px" />
 
 `The frameworks I used are:`
 
