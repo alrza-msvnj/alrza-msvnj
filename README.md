@@ -29,4 +29,12 @@ Here are some ideas to get you started:
 
 <img src="/icons/sqlserver.svg" style="width:50px; height:50px" /> <img src="/icons/postgresql.svg" style="width:50px; height:50px" /> <img src="/icons/mongodb.svg" style="width:50px; height:50px" /> <img src="/icons/redis.svg" style="width:50px; height:50px" /> <img src="/icons/elasticsearch.svg" style="width:50px; height:50px" />
 
+`Tools:`
+
+<img src="/icons/visualstudio.svg" style="width:50px; height:50px" /> <img src="/icons/vscode.svg" style="width:50px; height:50px" /> <img src="/icons/jupyter.svg" style="width:50px; height:50px" /> <img src="/icons/docker.svg" style="width:50px; height:50px" /> <img src="/icons/git.svg" style="width:50px; height:50px" /> <img src="/icons/github.svg" style="width:50px; height:50px" /> <img src="/icons/obsidian.svg" style="width:50px; height:50px" /> <img src="/icons/postman.svg" style="width:50px; height:50px" /> <img src="/icons/pycharm.svg" style="width:50px; height:50px" />
+
+`OSs:`
+
+<img src="/icons/windows.svg" style="width:50px; height:50px" />
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=alrza-msvnj&no-bg=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
