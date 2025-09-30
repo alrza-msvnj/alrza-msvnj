@@ -10,7 +10,7 @@
 
 `💬 Ask me about ...`
 
-`📫 How to reach me: ...`
+`📫 How to reach me: alrza.msvnj@gmail.com`
 
 `😄 Pronouns: he/him`
 
