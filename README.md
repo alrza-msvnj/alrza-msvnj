@@ -6,7 +6,7 @@
 
 `👯 I’m looking to collaborate on interesting startup projects.`
 
-`🤔 I’m looking for help with ...`
+`🤔 I’m looking for help with nothing right now.`
 
 `💬 Ask me about anything.`
 
