@@ -1,8 +1,5 @@
 ## `Hi there 👋`
 
-<img src="/emoji/pxArt (3).png" style="width:18px; height:18px" /> 🔭
-
-
 `🔭 I’m currently working on ...`
 
 `🌱 I’m currently learning ...`
