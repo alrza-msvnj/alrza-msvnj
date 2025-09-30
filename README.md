@@ -1,8 +1,8 @@
 ## `Hi there 👋`
 
-`🔭 I’m currently working on ...`
+`🔭 I’m currently working on a trading platform.`
 
-`🌱 I’m currently learning ...`
+`🌱 I’m currently learning team management.`
 
 `👯 I’m looking to collaborate on ...`
 
