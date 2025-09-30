@@ -14,7 +14,7 @@
 
 `😄 Pronouns: he/him`
 
-`⚡ Fun fact: ...`
+`⚡ Fun fact: I created this readme because it was my homework.`
 
 `Languages:`
 
