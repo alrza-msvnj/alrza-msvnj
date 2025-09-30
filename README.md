@@ -4,7 +4,7 @@
 
 `🌱 I’m currently learning team management.`
 
-`👯 I’m looking to collaborate on ...`
+`👯 I’m looking to collaborate on interesting startup projects.`
 
 `🤔 I’m looking for help with ...`
 
