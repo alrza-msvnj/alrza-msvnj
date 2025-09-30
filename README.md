@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 `Tools:`
 
-<img src="/icons/visualstudio.svg" style="width:50px; height:50px" /> <img src="/icons/vscode.svg" style="width:50px; height:50px" /> <img src="/icons/anaconda.svg" style="width:50px; height:50px" /> <img src="/icons/docker.svg" style="width:50px; height:50px" /> <img src="/icons/git.svg" style="width:50px; height:50px" /> <img src="/icons/github.svg" style="width:50px; height:50px" /> <img src="/icons/obsidian.svg" style="width:50px; height:50px" /> <img src="/icons/postman.svg" style="width:50px; height:50px" /> <img src="/icons/pycharm.svg" style="width:50px; height:50px" />
+<img src="/icons/visualstudio.svg" style="width:50px; height:50px" /> <img src="/icons/vscode.svg" style="width:50px; height:50px" /> <img src="/icons/anaconda.svg" style="width:50px; height:50px" /> <img src="/icons/docker.svg" style="width:50px; height:50px" /> <img src="/icons/git.svg" style="width:50px; height:50px" /> <img src="/icons/obsidian.svg" style="width:50px; height:50px" /> <img src="/icons/postman.svg" style="width:50px; height:50px" /> <img src="/icons/pycharm.svg" style="width:50px; height:50px" />
 
 `OSs:`
 
